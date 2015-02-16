@@ -1,5 +1,3 @@
-# hackers
-
 ## Book List
 
 * [**The Hacker Crackdown (1992)**: Law and Disorder on the Electronic Frontier](http://www.mit.edu/hacker/hacker.html) - Bruce Sterling
